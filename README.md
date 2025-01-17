@@ -1,7 +1,4 @@
 
-### **`gcp-scripts` Repository**
-
-```markdown
 # GCP Scripts
 
 ## Description
