@@ -1,0 +1,9 @@
+arquivos_json
+arquivos_tratados
+csv_inventarios
+lista_recursos
+nmap_scan_results
+saidas
+*.csv
+*.json
+*.txt
