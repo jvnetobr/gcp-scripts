@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_FILE="$HOME/gcp-inventory-$(date +%Y%m%d).txt"
+OUTPUT_FILE="gcp-inventory-$(date +%Y%m%d).txt"
 PROJETOS=(
   "scio-internal"
   "scio-development"
